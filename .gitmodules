@@ -1,0 +1,3 @@
+[submodule "lecnet"]
+	path = lecnet
+	url = https://github.com/alecmus/lecnet
