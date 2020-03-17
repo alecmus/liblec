@@ -13,6 +13,9 @@ More information on the author, Alec T. Musasa, can be obtained at https://githu
 ## THE LIBRARIES
 Below is a list of the libraries that are part of liblec:
 
-Library Name | Description          | Repository
------------- | -------------------- | ---------------------------------
-lecnet       | A networking library | https://github.com/alecmus/lecnet
+Library Name | Description          | Repository                        | Status
+------------ | -------------------- | --------------------------------- | -------------
+lecnet       | A networking library | https://github.com/alecmus/lecnet | Released
+cui          | A gui framework      | https://github.com/alecmus/cui    | Released
+lecui        | A gui library        | -                                 | Pending release
+lecpub       | A publishing library | -                                 | Pending release
