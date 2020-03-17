@@ -1,3 +1,6 @@
 [submodule "lecnet"]
 	path = lecnet
 	url = https://github.com/alecmus/lecnet
+[submodule "cui"]
+	path = cui
+	url = https://github.com/alecmus/cui
