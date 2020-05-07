@@ -17,5 +17,10 @@ Library Name | Description          | Repository                        | Status
 ------------ | -------------------- | --------------------------------- | -------------
 lecnet       | A networking library | https://github.com/alecmus/lecnet | Released
 cui          | A gui framework      | https://github.com/alecmus/cui    | Released
-lecui        | A gui library        | -                                 | Pending release
-lecpub       | A publishing library | -                                 | Pending release
+lecui        | A gui library        | Private repository                | Pending initial release
+lecpub       | A publishing library | Private repository                | Pending initial release
+
+## ADDITIONAL NOTES
+The following libraries, while currently private, are being actively developed and will be made public once the initial release is ready
+1. lecui
+2. lecpub
