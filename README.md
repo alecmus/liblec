@@ -24,3 +24,23 @@ lecpub       | A publishing library | Private repository                | Pendin
 The following libraries, while currently private, are being actively developed and will be made public once the initial release is ready
 1. lecui (currently in alpha status, stage 3 of 4)
 2. lecpub (currently in alpha status, stage 1 of 4)
+
+## lecui versus cui
+The lecui library is a complete rebuild and does not inherit from cui. It is a more modern, and more advanced library with many features that are not supported in the cui library. Furthermore, it offers hardware acceleration.
+
+Below is a summary of some of the features supported by lecui that are not supported by cui:
+
+ * hardware acceleration (when platform supports it)
+ * transparency channel in all widgets
+ * text formatting in labels
+ * an html text editor (in place of a richtext editor in cui)
+ * panels
+ * the ability to close widgets at runtime
+ * tab panes support 8 different orientation versus a single orientation (tabs on the left) in cui
+ * progress indicator widget (in addition to the progress bar)
+ * slider widget
+ * the ability for the user to make custom widgets in which they can define their own drawing
+ 
+ ... and more.
+ 
+ Development of the lecui library started in late 2018 and the expected date for beta release is late 2020.
