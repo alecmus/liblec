@@ -22,5 +22,5 @@ lecpub       | A publishing library | Private repository                | Pendin
 
 ## ADDITIONAL NOTES
 The following libraries, while currently private, are being actively developed and will be made public once the initial release is ready
-1. lecui
-2. lecpub
+1. lecui (currently in alpha status, stage 3 of 4)
+2. lecpub (currently in alpha status, stage 1 of 4)
