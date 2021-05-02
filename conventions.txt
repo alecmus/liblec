@@ -13,8 +13,15 @@ Debugging
 C/C++ - General
 	Additional Include Directories	$(SolutionDir)..\include
 
-Linker - General
-	Additional Library Directories	$(SolutionDir)..\lib
+Linker
+	General
+		Additional Library Directories	$(SolutionDir)..\lib
+
+	System - SubSystem
+		Windows (/SUBSYSTEM:WINDOWS)
+
+	Advanced - Entry Point
+		mainCRTStartup
 
 Build Events - Post-Build Event
 
