@@ -42,4 +42,4 @@ Below is a summary of some of the features supported by lecui that are not suppo
  
  ... and more.
  
- Development of the lecui library started in late 2018, first alpha release was in mid-2021, and the expected date for the first beta release is late 2021.
+ Development of the lecui library started early 2019, first alpha release was in mid-2021, and the expected date for the first beta release is late 2021.
