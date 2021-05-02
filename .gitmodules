@@ -4,3 +4,6 @@
 [submodule "cui"]
 	path = cui
 	url = https://github.com/alecmus/cui
+[submodule "lecui"]
+	path = lecui
+	url = https://github.com/alecmus/lecui
