@@ -22,8 +22,7 @@ lecpub       | A publishing library | Private repository                | Pendin
 
 ## ADDITIONAL NOTES
 The following libraries, while currently private, are being actively developed and will be made public once the initial release is ready
-1. lecui (currently in alpha status, stage 3 of 4)
-2. lecpub (currently in alpha status, stage 1 of 4)
+1. lecpub (currently in alpha status, stage 1 of 4)
 
 ## lecui versus cui
 The lecui library is a complete rebuild and does not inherit from cui. It is a more modern, and more advanced library with many features that are not supported in the cui library. Furthermore, it offers hardware acceleration.
