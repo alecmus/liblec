@@ -1,0 +1,29 @@
+liblec library conventions:
+
+Project Properties
+
+General
+	Output Directory	$(SolutionDir)..\.temp\$(ProjectName)\$(Platform)\$(Configuration)\
+	Intermediate Directory	$(SolutionDir)..\.temp\$(ProjectName)\$(Platform)\$(Configuration)\
+	C++ Language Standard	ISO C++17 Standard (std:c++17)
+
+Debugging
+	PATH=$(SolutionDir)..\bin;PATH%
+
+C/C++ - General
+	Additional Include Directories	$(SolutionDir)..\include
+
+Linker - General
+	Additional Library Directories	$(SolutionDir)..\lib
+
+Build Events - Post-Build Event
+
+	exe
+		xcopy "$(OutDir)$(TargetName)$(TargetExt)" "$(SolutionDir)..\bin\" /F /R /Y /I
+
+	dll
+		xcopy "$(OutDir)$(TargetName).lib" "$(ProjectDir)..\lib\" /F /R /Y /I
+		xcopy "$(OutDir)$(TargetName)$(TargetExt)" "$(ProjectDir)..\bin\" /F /R /Y /I
+		xcopy "$(ProjectDir)$(ProjectName).h" "$(SolutionDir)..\include\liblec\" /F /R /Y /I
+
+		xcopy "$(ProjectDir)some_header.h" "$(SolutionDir)..\include\liblec\$(ProjectName)\" /F /R /Y /I
