@@ -25,7 +25,7 @@ The following libraries, while currently private, are being actively developed a
 1. lecpub (currently in alpha status, stage 1 of 4)
 
 ## lecui versus cui
-The lecui library is a complete rebuild and does not inherit from cui. It is a more modern, and more advanced library with many features that are not supported in the cui library. Furthermore, it offers hardware acceleration.
+The lecui library is a complete rebuild and does not inherit from cui. It is a more modern, and more advanced library with many features that are not supported in the cui library. It features newer technologies, greater flexibility and a more robust architecture.
 
 Below is a summary of some of the features supported by lecui that are not supported by cui:
 
