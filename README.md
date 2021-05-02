@@ -15,9 +15,9 @@ Below is a list of the libraries that are part of liblec:
 
 Library Name | Description          | Repository                        | Status
 ------------ | -------------------- | --------------------------------- | -------------
+lecui        | A gui library        | https://github.com/alecmus/lecui  | Released
 lecnet       | A networking library | https://github.com/alecmus/lecnet | Released
 cui          | A gui framework      | https://github.com/alecmus/cui    | Released
-lecui        | A gui library        | Private repository                | Pending initial release
 lecpub       | A publishing library | Private repository                | Pending initial release
 
 ## ADDITIONAL NOTES
@@ -43,4 +43,4 @@ Below is a summary of some of the features supported by lecui that are not suppo
  
  ... and more.
  
- Development of the lecui library started in late 2018 and the expected date for beta release is late 2020.
+ Development of the lecui library started in late 2018, first alpha release was in mid-2021, and the expected date for the first beta release is late 2021.
