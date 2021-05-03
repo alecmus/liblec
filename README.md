@@ -1,16 +1,21 @@
 # liblec
 The liblec C++ libraries
 
-## ABOUT THE LIBRARY
+<p>
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/alecmus/liblec">
+  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/alecmus/liblec">
+</p>
+
+### About the Library
 The liblec library is a set of C++ libraries designed for the rapid development of modern, efficient, and easy to maintain C++ applications.
 
-## NAMING
+### Naming
 The name is a pun on the name of the original author: a set of libraries by Alec, hence liblec. So it is with the name of the libraries contained within liblec, e.g. lecnet stands for Alec's network library.
 
-## ABOUT THE AUTHOR
+### About the Author
 More information on the author, Alec T. Musasa, can be obtained at https://github.com/alecmus
 
-## THE LIBRARIES
+### The Libraries
 Below is a list of the libraries that are part of liblec:
 
 Library Name | Description          | Repository                        | Status
@@ -19,12 +24,14 @@ lecui        | A gui library        | https://github.com/alecmus/lecui  | Releas
 lecnet       | A networking library | https://github.com/alecmus/lecnet | Released
 cui          | A gui framework      | https://github.com/alecmus/cui    | Released
 lecpub       | A publishing library | Private repository                | Pending initial release
+lecdb        | A database library   | Private repository                | Pending initial release
 
-## ADDITIONAL NOTES
+### Additional Notes
 The following libraries, while currently private, are being actively developed and will be made public once the initial release is ready
 1. lecpub (currently in alpha status, stage 1 of 4)
+2. lecdb (currently in alpha status, stage 1 of 4)
 
-## lecui versus cui
+### lecui versus cui
 The lecui library is a complete rebuild and does not inherit from cui. It is a more modern, and more advanced library with many features that are not supported in the cui library. It features newer technologies, greater flexibility and a more robust architecture.
 
 Below is a summary of some of the features supported by lecui that are not supported by cui:
