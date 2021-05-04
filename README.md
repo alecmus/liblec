@@ -13,7 +13,7 @@ The liblec library is a set of C++ libraries designed for the rapid development 
 The name is a pun on the name of the original author: a set of libraries by Alec, hence liblec. So it is with the name of the libraries contained within liblec, e.g. lecnet stands for Alec's network library.
 
 ### About the Author
-More information on the author, Alec T. Musasa, can be obtained at https://github.com/alecmus
+More information on the author, Alec Musasa, can be obtained at https://github.com/alecmus
 
 ### The Libraries
 Below is a list of the libraries that are part of liblec:

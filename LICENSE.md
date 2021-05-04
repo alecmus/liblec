@@ -1,6 +1,6 @@
 liblec library
 -----------------------------------------------------------
-Copyright (c) 2018 Alec T. Musasa (alecmus at live dot com)
+Copyright (c) 2018 Alec Musasa (alecmus at live dot com)
 
 Released under the Creative Commons Attribution Non-Commercial
 2.0 Generic license (CC BY-NC 2.0).
