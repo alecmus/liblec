@@ -5,6 +5,10 @@ Project Properties
 General
 	Output Directory	$(SolutionDir)..\.temp\$(ProjectName)\$(Platform)\$(Configuration)\
 	Intermediate Directory	$(SolutionDir)..\.temp\$(ProjectName)\$(Platform)\$(Configuration)\
+	Target Name
+		Debug Builds	$(ProjectName)$(PlatformArchitecture)d
+		Release Builds	$(ProjectName)$(PlatformArchitecture)
+
 	C++ Language Standard	ISO C++17 Standard (std:c++17)
 
 Debugging
