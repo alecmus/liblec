@@ -24,12 +24,12 @@ lecui        | A gui library        | https://github.com/alecmus/lecui  | Releas
 lecnet       | A networking library | https://github.com/alecmus/lecnet | Released
 cui          | A gui framework      | https://github.com/alecmus/cui    | Released
 lecpub       | A publishing library | Private repository                | Pending initial release
-lecdb        | A database library   | Private repository                | Pending initial release
+leccore      | Core liblec library  | Private repository                | Pending initial release
 
 ### Additional Notes
 The following libraries, while currently private, are being actively developed and will be made public once the initial release is ready
 1. lecpub (currently in alpha status, stage 1 of 4)
-2. lecdb (currently in alpha status, stage 1 of 4)
+2. leccore (currently in alpha status, stage 1 of 4)
 
 ### lecui versus cui
 The lecui library is a complete rebuild and does not inherit from cui. It is a more modern, and more advanced library with many features that are not supported in the cui library. It features newer technologies, greater flexibility and a more robust architecture.
