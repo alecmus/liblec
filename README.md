@@ -18,18 +18,18 @@ More information on the author, Alec Musasa, can be obtained at https://github.c
 ### The Libraries
 Below is a list of the libraries that are part of liblec:
 
-Library Name | Description          | Repository                        | Status
------------- | -------------------- | --------------------------------- | -------------
-lecui        | A gui library        | https://github.com/alecmus/lecui  | Released
-lecnet       | A networking library | https://github.com/alecmus/lecnet | Released
-cui          | A gui framework      | https://github.com/alecmus/cui    | Released
-lecpub       | A publishing library | Private repository                | Pending initial release
-leccore      | Core liblec library  | Private repository                | Pending initial release
+Library Name | Description          | Repository                         | Status
+------------ | -------------------- | ---------------------------------- | -------------
+lecui        | A gui library        | https://github.com/alecmus/lecui   | Released
+lecnet       | A networking library | https://github.com/alecmus/lecnet  | Released
+cui          | A gui framework      | https://github.com/alecmus/cui     | Released
+leccore      | Core liblec library  | https://github.com/alecmus/leccore | Pending initial release
+lecpub       | A publishing library | Private repository                 | Pending initial release
 
 ### Additional Notes
-The following libraries, while currently private, are being actively developed and will be made public once the initial release is ready
-1. lecpub (currently in alpha status, stage 1 of 4)
-2. leccore (currently in alpha status, stage 1 of 4)
+The following libraries are being actively developed. The latter is yet be made public once an important threshold is reached
+1. leccore (currently in alpha status, stage 1 of 4)
+2. lecpub (currently in alpha status, stage 1 of 4)
 
 ### lecui versus cui
 The lecui library is a complete rebuild and does not inherit from cui. It is a more modern, and more advanced library with many features that are not supported in the cui library. It features newer technologies, greater flexibility and a more robust architecture.
