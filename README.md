@@ -23,7 +23,7 @@ Library Name | Description          | Repository                         | Statu
 lecui        | A gui library        | https://github.com/alecmus/lecui   | Released
 lecnet       | A networking library | https://github.com/alecmus/lecnet  | Released
 cui          | A gui framework      | https://github.com/alecmus/cui     | Released
-leccore      | Core liblec library  | https://github.com/alecmus/leccore | Pending initial release
+leccore      | Core liblec library  | https://github.com/alecmus/leccore | Released
 lecpub       | A publishing library | Private repository                 | Pending initial release
 
 ### Additional Notes
