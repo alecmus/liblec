@@ -9,4 +9,4 @@
 	url = https://github.com/alecmus/lecui
 [submodule "leccore"]
 	path = leccore
-	url = https://github.com/alecmus/leccore.git
+	url = https://github.com/alecmus/leccore
